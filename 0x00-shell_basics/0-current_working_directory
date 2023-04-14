@@ -1,4 +1,7 @@
 ^#!/bin/bash
 pwd
+<<<<<<< HEAD
 :wq
 
+=======
+>>>>>>> e4c060bea019a89d18ca6c92ad6d51dbafb52acd
